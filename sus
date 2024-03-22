@@ -1,0 +1,35 @@
+
+          <div class="col-lg-3 col-md-3 col-sm-12">
+            <div class="box">
+              <div class="box-header">
+                <h3 class="box-title">Subscription</h3>
+              </div>
+              <!-- /.box-header -->
+              <div class="box-body table-responsive no-padding">
+                <table class="table table-hover">
+                  <tbody id="tosusreplace">
+                  <tr>
+                    <td></td>
+                    <td><b>Free</b></td>
+                    <td><b>6 months</b></td>
+                    <td><b>Annual</b></td>
+                  </tr>
+                  <tr>
+                    <td>ios</td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_less_10']) ? $getVideoPlayCount['intro2_less_10'] : 0?></td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_greater_10']) ? $getVideoPlayCount['intro2_greater_10'] : 0?></td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_greater_10']) ? $getVideoPlayCount['intro2_greater_10'] : 0?></td>
+                  </tr>
+
+                  <tr>
+                    <td>Android</td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_less_10']) ? $getVideoPlayCount['intro2_less_10'] : 0?></td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_greater_10']) ? $getVideoPlayCount['intro2_greater_10'] : 0?></td>
+                    <td><?php echo !empty($getVideoPlayCount['intro2_greater_10']) ? $getVideoPlayCount['intro2_greater_10'] : 0?></td>
+                  </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!-- /.box-body -->
+            </div>
+          </div>
