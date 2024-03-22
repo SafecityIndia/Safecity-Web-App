@@ -1,0 +1,29 @@
+<?php
+	$lang['select_location'] = "कृपया एका चांगल्या अनुभवासाठी आपले स्थान निवडा";
+	$lang['select_country'] = "कृपया आपला देश निवडा";
+	$lang['select_city'] = "कृपया आपले शहर निवडा";
+	$lang['reporting_orgnization'] = "आपण एखाद्या संस्थेचा भाग म्हणून अहवाल देत आहात?";
+	$lang['org_yes'] = "होय";
+	$lang['org_no'] = "नाही";
+	$lang['select_organization'] = "कृपया आपली संस्था निवडा";
+	$lang['orgnization_name'] = "संस्थेचे नाव";
+	$lang['organization_code'] = "कृपया संस्था सत्यापन कोड प्रविष्ट करा";
+	$lang['correct_code'] = "कृपया योग्य कोड निवडा";
+	$lang['select_language'] = "आपली भाषा निवडा";
+	$lang['button_done'] = "पूर्ण";
+	$lang['button_proceed'] = "प्रक्रिया";
+	$lang['share_exp'] = "शहरे अधिक सुरक्षित करण्यात मदत करा. तुमचा अनुभव सामायिक करा";
+	$lang['welcome_safecity'] = "सेफेसिटी अँपमध्ये आपले स्वागत आहे ";
+	$lang['country'] = "देश";
+	$lang['city'] = "शहर";
+	$lang['verify'] = "सत्यपित करा";
+	$lang['view_helplines'] = "हेल्पलाईन पहा";
+	$lang['accept_proceed'] = "स्वीकार आणि प्रतिक्रिया";
+	$lang['age'] = "तुमचे वय 18 वर्षांपेक्षा जास्त आहे का";
+	$lang['sorry_age'] = "क्षमस्व, आम्ही केवळ 18 वर्षांवरील प्रौढांकडील लैंगिक हिंसाचाराबद्दल डेटा जमा करतो.";
+	$lang['go_back'] = "परत जा'";
+	$lang['share_your_story'] = "आपली कहाणी सामायिक करून, आपण इतरांना त्यांचे मौन मोडून जगभरातील सार्वजनिक स्थाने अधिक सुरक्षित बनविण्यात मदत करा. ";
+	$lang['i_consent'] = "मी संमती देतो";
+	$lang['view_privacy_policy'] = "गोपनीयता धोरण पहा";
+	$lang['submit_report'] = "आपला अहवाल सादर केल्याबद्दल धन्यवाद!";
+?>

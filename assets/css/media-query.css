@@ -1,0 +1,240 @@
+@media only screen and (min-width: 1201px) {
+	li.nav-item {
+		margin-right: 18px;
+		margin-left: 18px;
+	}
+	li.nav-item:last-child {
+		margin-right: 55px;
+	}
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	li.nav-item {
+		margin-right: 16px;
+		margin-left: 16px;
+	}
+}
+@media only screen and (min-width: 1199px) {
+	.homePage .container-fluid {
+		width: 85% !important;
+	}
+}
+@media only screen and (min-width: 1200px) {
+	.homePage .container-fluid {
+		width: 80% !important;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.navbar.navbar-light .container {
+		max-width: 100% !important;
+	}
+	.navbar .desktop_nav .navbar-brand {
+		width: 100% !important;
+	}
+	.logoNav {
+		width: 15% !important;
+	}
+	.desktopMainNav {
+		width: 80% !important;
+	}
+	.navbar .desktop_nav .navbar-brand .logo { 
+		width: 100% !important;
+	}
+}
+@media only screen and (max-width: 991px) {
+	#topbar {
+		display: none !important;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.legalResources select {
+		width: 50%;
+	}
+	.Step1 {
+	  float: left;
+	  width: 100%;
+	  position: relative;
+	}
+	.homePage p { 
+	    margin-bottom: 0px !important;
+	}
+	.mobile_nav {
+		display: none !important;
+	}
+	.card1 {
+		box-shadow: 0px 3px 6px #d6d6d6;
+		padding: 50px;
+	}	
+	.homePage .main-content {
+		margin-top: 24px !important;
+	}
+	.homePage h5 {
+		font-weight: 500;
+	}
+	.homePage .card1:last-child h5 {
+		color: #220E0E !important;
+	}
+	.shareIncident {
+		width: 55% !important;
+	}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 998px) {
+	.homePage .text.mx-auto {
+		width: 85%;
+	}
+}
+@media only screen and (min-width: 999px) and (max-width: 1199px) {
+	.homePage .text.mx-auto {
+		width: 95%;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.Step1 {
+	  float: left;
+	  width: 100%;
+	  /*position: relative;*/
+	}
+	.progress-form li.form-group {
+		margin-left: 0px !important;
+	}
+	.singleColumn .inputGroup {
+		width: 100% !important;
+	}
+	.questionaire .nxt_btn {
+	    /*margin: auto;
+	    width: 60%;
+	    position: absolute;
+	    left: 0;
+	    bottom: 3%;
+	    right: 0;*/
+	    margin-left: 0 !important;
+	}
+}
+@media only screen and (min-width: 601px) {
+	.Step1 {
+	  float: left;
+	  width: 100%;
+	  position: relative;
+	}
+	.progress-form li.form-group {
+		margin-left: 30px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.form-group .inputBox, .input1 {
+		width: 100% !important;	
+	}
+	.primaryForm, .customWidth {
+		width: 100% !important;
+	}
+	.count.float-right {
+    position: static!important;
+    bottom: auto !important;
+    right: 0 !important;
+    top: 60px;
+    width: 90%;
+    margin: 70px auto 20px;
+    left: 0 !important;
+	}
+	.progress {
+		width: 100% !important;
+    	margin: 0 auto !important;
+	}
+	.show_one {
+		left: 10px !important; 
+	}
+	
+	
+	.desktop_nav {
+		display: none !important;
+	}
+	.help_btn {
+		display: none !important;
+	}
+	.navbar-light .navbar-toggler {
+		border: 0px !important;
+	}
+	header {
+		box-shadow: 0px 3px 6px #00000029;
+		margin-bottom: 10px 
+	}
+	.homePage .container {
+		padding: 0px !important;
+	}
+	.homePage .text-center {
+		width: 100% !important;
+	}
+	.homePage .card1 {
+		padding: 30px !important;
+	}
+	.homePage .card1:last-child h5 {
+		color: #592D8D !important;
+	}
+	.homePage .card1:first-child {
+		margin-bottom: 0px !important;
+	}
+	.homePage .card1:last-child {
+		box-shadow: 0px 3px 6px #00000029;
+	}
+	.homePage .card1 .btn {
+		width: 100%;
+		margin-bottom: 15px !important;
+		font-size: 13px !important;
+	}
+	.mainMobileNav { 
+		position: absolute;
+		top: 71px;
+		right: 0px;
+		z-index: 999;
+		width: 290px;
+		background-color: rgb(255, 255, 255) !important;
+	}
+	.mobile_nav li.nav-item.active {
+		background-color: #EBE2F5;
+	}
+	.mobile_nav li.nav-item {
+		padding: 8px 20px;
+		border-bottom: 1px solid #E8E8E8;
+	}
+	.mobile_nav li.nav-item:last-child {
+		border: 0px !important;
+	}
+	.logo {
+		width: 100% !important;
+	}
+		/*Anjani*/
+   .m-dis-none{display: none;}
+   .sidebarmenu{ margin-bottom: 25px  }
+   .flex100{-ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;}
+    .back-arrow {
+    top: 0px !important;
+    left: 0px !important;
+    position: relative !important;
+}
+.add-sidebar{height:auto !important;}
+.dynamic_back{left:20px !important;}
+.clearTime, .clearTimeRange{padding-left: 0 !important} 
+.estimate{margin-top: 0 !important}
+.dynamic-success-link .w-75{ width: 100% !important }
+.legalResources .main-content.mt-4, .terms.main-content.mt-4{margin-top: 0px !important}
+.terms .text.linkText, .terms .text.mx-auto.pt-4{width: 100% !important}
+.terms .col-md-6.col-sm-12.col-xs-12.p-0.float-right,.terms h6.text.linkTextColor.mb-4.float-right{float: none !important;}
+#faqAccordion .card-header h5 {
+    font-size: 16px !important;
+}
+.mainContent .card3 h4.textColor, .mainContent .card2 h4.textColor {
+	font-size: 22px !important
+}
+.m-my-auto {
+    margin-bottom: auto!important;
+}
+.m-my-auto {
+    margin-top: auto!important;
+}
+}
+@media only screen and (min-width: 576px) {
+	.modal-dial dth: 370px !important;
+	}
+}
