@@ -1,0 +1,124 @@
+
+@font-face {
+    font-family: 'Gelion';
+    src: url('Gelion-Regular.eot');
+    src: url('../web-fonts/Gelion-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../web-fonts/Gelion-Regular.woff2') format('woff2'),
+    url('../web-fonts/Gelion-Regular.woff') format('woff'),
+    url('../web-fonts/Gelion-Regular.ttf') format('truetype'),
+    url('../web-fonts/Gelion-Regular.svg#Gelion-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gelion';
+    src: url('../web-fonts/Gelion-Medium.eot');
+    src: url('../web-fonts/Gelion-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../web-fonts/Gelion-Medium.woff2') format('woff2'),
+    url('../web-fonts/Gelion-Medium.woff') format('woff'),
+    url('../web-fonts/Gelion-Medium.ttf') format('truetype'),
+    url('../web-fonts/Gelion-Medium.svg#Gelion-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gelion';
+    src: url('../web-fonts/Gelion-Light.eot');
+    src: url('../web-fonts/Gelion-Light.eot?#iefix') format('embedded-opentype'),
+    url('../web-fonts/Gelion-Light.woff2') format('woff2'),
+    url('../web-fonts/Gelion-Light.woff') format('woff'),
+    url('../web-fonts/Gelion-Light.ttf') format('truetype'),
+    url('../web-fonts/Gelion-Light.svg#Gelion-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+body {
+    font-family: 'Gelion', sans-serif; font-size: 18px
+}
+.login-page, .register-page {
+    -ms-flex-align: center;
+    align-items: center;
+    background: #e9ecef;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100vh;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.login-box, .register-box {
+    width: 495px;
+}
+.card {
+    border:0;
+    border-radius: 0;
+    box-shadow: 0px 3px 6px #0000001A;
+}
+.login-logo {
+    margin-bottom: .9rem;
+    text-align: center;
+    max-width: 147px;
+    margin: auto;
+}
+.login-box-msg, .register-box-msg {
+    margin: 0;
+    padding: 0 20px 30px;
+    text-align: center;
+    font-size: 25px
+}
+.card-body {
+    padding: 60px;
+}
+.input-group-text{border-radius: 3px;
+    background-color: transparent;border: 1px solid #E1D8EB;}
+     .input-group>.input-group-append>.input-group-text, .input-group>.input-group-prepend:first-child>.btn:not(:first-child), .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child), .input-group>.input-group-prepend:not(:first-child)>.btn, .input-group>.input-group-prepend:not(:first-child)>.input-group-text {
+     border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+     border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+  .login-box .form-control{ font-size: 18px;    border: 1px solid #E1D8EB; color: #000;box-shadow: none !important;}}
+   .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #5D5656 !important;
+  opacity: 1; /* Firefox */
+}
+
+ .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #5D5656 !important;
+}
+
+ .form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: #5D5656 !important;
+}
+.theme-color{color: #592D8D}
+.theme-color a{color: #592D8D; text-decoration: none; font-size:16px; font-weight: 500}
+.fog-pass{font-size: 16px}
+.purple-btn{background: #542789 !important;padding: 10px ;box-shadow: none !important; border-color: #6531a2 !important; font-weight: 500}
+.purple-btn:hover{background: #6531a2 !important; border-color: #6531a2 !important;}
+.invalid-feedback{
+    color: #E34A3D;}
+.forgot-screen{display: none;}
+@media (max-width: 576px){
+    body {
+ font-size: 16px
+}
+.login-box, .register-box {
+    margin-top: .5rem;
+    width: 90%;
+}
+.card-body {
+    padding: 30px;
+}
+.login-box-msg, .register-box-msg {
+    font-size: 20px;
+}
+.login-box .form-control {
+    font-size: 16px;
+}}

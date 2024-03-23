@@ -1,0 +1,6 @@
+{
+    "require": {
+        "raulr/google-play-scraper": "^0.3.0",
+        "symfony/browser-kit": "^5.1"
+    }
+}

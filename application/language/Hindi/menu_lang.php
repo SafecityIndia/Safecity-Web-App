@@ -1,0 +1,55 @@
+<?php
+	$lang['home_menu'] = 'प्रथम पेज';
+	$lang['hospital_menu'] = 'मेरे आस पास के अस्पताल';
+	$lang['police_menu'] = 'मेरे आस पास के पुलिस थाने';
+	$lang['police_staion'] = 'पुलिस थाने';
+	$lang['menu_option'] = 'सूचि/मेन्यू';
+	$lang['help_menu'] = 'मदद';
+	$lang['legal_menu'] = 'कानूनी संसाधन';
+	$lang['contact_menu'] = 'हमे सम्पर्क करें';
+	$lang['about_safecity_menu'] = 'सेफसिटी के बारे में';
+	$lang['faq_menu'] = 'अधिकतर पूछे गए प्रश्न';
+	$lang['volunteer_menu'] = 'सेफसिटी के साथ वालंटियर करें';
+	$lang['donate_menu'] = 'सेफसिटी को दान करें';
+	$lang['about_org_menu'] = 'सेफसिटी के बारे में';
+	$lang['wellness_menu']  = 'कल्याण संसाधन';
+	$lang['safecity'] = 'सेफसिटी';
+	$lang['privacy_policy'] = 'प्राइवेसी पॉलिसी';
+	$lang['terms_of_use'] = 'उपयोग की शर्तें';
+	$lang['legal_submenu_ipc'] = 'आई पी सी 1860 के अंतर्गत यौन हिंसा पर कानून';
+	$lang['legal_submenu_fir'] = 'ऍफ़. आई. आर.  दर्ज़ करना';
+	$lang['settings'] = 'सेटिंग';
+	$lang['location'] = 'स्थान';
+	$lang['language'] = 'भाषा';
+	$lang['organization'] = 'संस्था';
+	$lang['terms_and_condition'] = 'नीतियाँ व शर्तें';
+	$lang['view_data'] = 'डेटा देखें';
+	$lang['popup_content'] = 'यहां दी गई सामग्री किसी भी तरह से पेशेवर कानूनी सलाह का विकल्प नहीं है.';
+	$lang['i_understand'] = 'मै समझता हुँ';
+	
+	$lang['lang_english'] = 'अंग्रेज़ी';
+	$lang['lang_hindi'] = 'हिंदी';
+	$lang['lang_marathi'] = 'मराठी';
+	$lang['lang_malay'] = 'मलय';
+	$lang['lang_croatian'] = "Croatian";
+	$lang['lang_spanish'] = "Español";
+	$lang['lang_arabic'] = 'अरबी';
+	$lang['lang_portuguese'] = "Portuguese";
+	$lang['lang_romanian'] = "Romanian";
+	$lang['lang_kiswahili'] = "Kiswahili";
+	$lang['lang_ukrainian'] = "यूक्रेनी";
+	$lang['lang_serbian'] = "Serbian";
+
+	$lang['volunteer_with_us'] = 'हमारे साथ वालंटियर करें';
+	$lang['volunteer_with_us_desc'] = 'हमारे साथ काम करने के लिए आपके पास कई विकल्प है। अपना वक़्त और हुनर देकर बदलाव का हिस्सा बनें';
+	$lang['apply_to_volunteer'] = 'वालंटियर करने के लिए अप्लाई करें';
+	$lang['apply_to_agreeConsent'] = 'मैं सहमत हूं';
+	$lang['apply_to_privacy_policy'] = 'गोपनीयता नीति देखें';
+	$lang['apply_to_next_btn'] = 'आगे';
+	$lang['about_safety'] = 'सुरक्षा के बारे में';
+	$lang['shared_incident'] = 'मेरे द्वारा बताई गई घटनाएं';
+	$lang['shared_safetytip'] = 'मेरे द्वारा बताये गए सुरक्षा सन्देश';
+	$lang['get_in_touch'] = 'हमसे जुड़े';
+	$lang['give_misscall'] = 'अपने अनुभव बताने के लिए हमें मिस कॉल दें यह सिर्फ भारतीय कॉलर्स के लिए है हमारी टीम आपको चौबीस घंटों के अंदर अंदर वापिस सम्पर्क करेगी';
+	$lang['write_to_us'] = 'हमें लिखें';
+?>

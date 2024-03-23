@@ -1,0 +1,113 @@
+ 
+ @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-BLACKITALIC.TTF);
+    font-style: italic;
+    font-weight: 900;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-BOLDITALIC.TTF);
+    font-style: italic;
+    font-weight: bold;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-MEDIUMITALIC.TTF);
+    font-style: italic;
+    font-weight: 500;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-MEDIUMITALIC.TTF);
+    font-style: italic;
+    font-weight: 500;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-SEMIBOLDITALIC.TTF);
+    font-style: italic;
+    font-weight: 600;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-REGULARITALIC.TTF);
+    font-style: italic;
+    font-weight: 400;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-LIGHTITALIC.TTF);
+    font-style: italic;
+    font-weight: 200;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-THINITALIC.TTF);
+    font-style: italic;
+    font-weight: 200;
+  } 
+  
+   
+
+
+
+
+
+
+ @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-BLACK.TTF);
+    font-style: normal;
+    font-weight: 900;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-BOLD.TTF);
+    font-style: normal;
+    font-weight: bold;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-MEDIUM.TTF);
+    font-style: normal;
+    font-weight: 500;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-MEDIUM.TTF);
+    font-style: normal;
+    font-weight: 500;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-SEMIBOLD.TTF);
+    font-style: normal;
+    font-weight: 600;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-REGULAR.TTF);
+    font-style: normal;
+    font-weight: 400;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-LIGHT.TTF);
+    font-style: normal;
+    font-weight: 200;
+  } 
+  @font-face {
+    font-family: gelion;
+    src: url(../static/GELION-THIN.TTF);
+    font-style: normal;
+    font-weight: 200;
+  } 
+  
+  
+
+
+
+
+
+
